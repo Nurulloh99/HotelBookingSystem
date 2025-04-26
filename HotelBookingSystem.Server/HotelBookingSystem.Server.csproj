@@ -17,8 +17,8 @@
   <ItemGroup>
     <Folder Include="Configurations\" />
     <Folder Include="Filters\" />
-    <Folder Include="Logs\" />
     <Folder Include="Middlewares\" />
+    <Folder Include="Logs\" />
   </ItemGroup>
 
 </Project>
